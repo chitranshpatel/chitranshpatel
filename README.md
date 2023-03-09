@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chitranshpatel
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and Deeo Learning
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me chitranshpatel25@gmail.com
 
